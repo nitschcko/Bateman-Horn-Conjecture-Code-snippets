@@ -144,15 +144,4 @@ Das Progressionsskript vergleicht die tatsächliche Primzahlanzahl mit Ausdrück
 
 </details>
 
-## Auf GitHub veröffentlichen
-
-Für den ersten Upload dieses Ordners kannst du ein leeres Repository auf GitHub anlegen und anschließend die folgenden Befehle im Hauptordner ausführen. Ersetze `DEINE-REPO-URL` durch dessen tatsächliche Git-URL. Diese Anleitung setzt voraus, dass der Ordner noch kein Git-Repository ist und das entfernte Repository noch keine Commits enthält.
-
-```bash
-git init -b main
-git add .
-git commit -m "Projektstruktur und Dokumentation hinzufügen"
-git remote add origin DEINE-REPO-URL
-git push -u origin main
-```
 
