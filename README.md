@@ -1,0 +1,1 @@
+# Bateman-Horn-Conjecture-Code-snippets
